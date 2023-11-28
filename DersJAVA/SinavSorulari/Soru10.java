@@ -12,4 +12,6 @@ public class Soru10 {
 			System.out.println("else");
 		}
 	}
+
+	
 }
