@@ -1,4 +1,4 @@
-package SinavSorulari;
+package OrnekSinavSorulari;
 
 public class Soru5 {
     private static int i = 1;

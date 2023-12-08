@@ -1,4 +1,4 @@
-package SinavSorulari;
+package OrnekSinavSorulari;
 
 public class Soru4 {
     public static void main(String args[]) { 

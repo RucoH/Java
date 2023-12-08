@@ -1,5 +1,5 @@
 package Odevler;
-import java.util.Scanner;  	//Burada Kullanıcıdan alacağımız veyiyi çekme işlemi için scanner import ettik
+import java.util.Scanner;  	//Burada Kullanıcıdan alacağımız veriyi çekme işlemi için scanner import ettik
 
 //Kodların Çalışması için yeni bir sınıf oluşturduk.
 public class odevAsal {

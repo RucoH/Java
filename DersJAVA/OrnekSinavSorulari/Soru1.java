@@ -1,4 +1,4 @@
-    package SinavSorulari;
+    package OrnekSinavSorulari;
     public class Soru1 {
 
     public static void sayiyaEkle(int x, int miktar) {
