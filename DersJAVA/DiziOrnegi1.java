@@ -1,6 +1,6 @@
 // Java'da dizi kullanımını gösteren basit bir program
 
-public class DiziOrnegi {
+public class DiziOrnegi1 {
 
 	public static void main(String[] args) {
 		// Dizi oluştur ve elemanlarıyla birlikte tanımla
