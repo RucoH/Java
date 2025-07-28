@@ -14,9 +14,9 @@ project-name/
 Or in some cases, just standalone `.java` files like:
 
 ```
-BubbleSort.java  
+AralikToplama.java  
 Factorial.java  
-GuessingGame.java
+HesapMakinesi.java
 ```
 
 ## 🧠 Topics Covered
