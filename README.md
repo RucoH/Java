@@ -15,7 +15,7 @@ Or in some cases, just standalone `.java` files like:
 
 ```
 AralikToplama.java  
-Factorial.java  
+YanPiramit.java  
 HesapMakinesi.java
 ```
 
