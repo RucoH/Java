@@ -63,6 +63,8 @@ These projects are primarily for:
 * [W3Schools Java Tutorial](https://www.w3schools.com/java/)
 * [GeeksforGeeks Java Examples](https://www.geeksforgeeks.org/java/)
 
+---
+
 ## 📄 License
 
 Distributed under the [MIT License](LICENSE).
@@ -71,3 +73,5 @@ Distributed under the [MIT License](LICENSE).
 
 * GitHub: [@RucoH](https://github.com/RucoH)
 * Live Site: [https://rucoh.github.io/](https://rucoh.github.io/)
+
+---
